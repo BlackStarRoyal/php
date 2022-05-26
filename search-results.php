@@ -15,6 +15,7 @@
  *
  * wp_dequeue_style( 'searchwp-live-search' );
  *
+ 
  * You can use ~/searchwp-live-search/assets/styles/style.css as a guide to customize
  */
 ?>
